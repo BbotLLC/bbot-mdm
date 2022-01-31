@@ -1,0 +1,40 @@
+{
+  "name": "@bbot/bbot-mdm",
+  "title": "React Native Bbot MDM Tools",
+  "version": "1.0.0",
+  "description": "Quick utility for determining if the device is currently being managed by an MDM",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "ios",
+    "bbot-mdm.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BbotLLC/bbot-mdm.git",
+    "baseUrl": "https://github.com/BbotLLC/bbot-mdm"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Gilles St-Cyr",
+    "email": "gilles@bbot.menu"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": ">=16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
