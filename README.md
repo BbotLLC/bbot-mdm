@@ -1,5 +1,7 @@
 # @bbot/bbot-mdm
 
+Simple utility for determining if the device is managed
+
 ## Getting started
 
 `$ npm install @bbot/bbot-mdm --save`
