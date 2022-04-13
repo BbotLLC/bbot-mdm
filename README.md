@@ -4,7 +4,7 @@ Simple utility for determining if the device is managed
 
 ## Getting started
 
-`$ npm install @bbot/bbot-mdm --save`
+`$ npm install BbotLLC/bbot-mdm --save`
 
 ### Mostly automatic installation
 
