@@ -1,7 +1,7 @@
 {
   "name": "@bbot/bbot-mdm",
   "title": "React Native Bbot MDM Tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quick utility for determining if the device is currently being managed by an MDM on Android",
   "main": "index.js",
   "files": [
